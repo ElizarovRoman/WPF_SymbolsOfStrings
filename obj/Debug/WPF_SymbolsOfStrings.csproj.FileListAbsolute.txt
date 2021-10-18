@@ -1,0 +1,15 @@
+C:\Users\apisi\source\repos\WPF_SymbolsOfStrings\bin\Debug\WPF_SymbolsOfStrings.exe.config
+C:\Users\apisi\source\repos\WPF_SymbolsOfStrings\bin\Debug\WPF_SymbolsOfStrings.exe
+C:\Users\apisi\source\repos\WPF_SymbolsOfStrings\bin\Debug\WPF_SymbolsOfStrings.pdb
+C:\Users\apisi\source\repos\WPF_SymbolsOfStrings\obj\Debug\WPF_SymbolsOfStrings.csprojAssemblyReference.cache
+C:\Users\apisi\source\repos\WPF_SymbolsOfStrings\obj\Debug\App.g.cs
+C:\Users\apisi\source\repos\WPF_SymbolsOfStrings\obj\Debug\WPF_SymbolsOfStrings_MarkupCompile.cache
+C:\Users\apisi\source\repos\WPF_SymbolsOfStrings\obj\Debug\WPF_SymbolsOfStrings_MarkupCompile.lref
+C:\Users\apisi\source\repos\WPF_SymbolsOfStrings\obj\Debug\WPF_SymbolsOfStrings.g.resources
+C:\Users\apisi\source\repos\WPF_SymbolsOfStrings\obj\Debug\WPF_SymbolsOfStrings.Properties.Resources.resources
+C:\Users\apisi\source\repos\WPF_SymbolsOfStrings\obj\Debug\WPF_SymbolsOfStrings.csproj.GenerateResource.cache
+C:\Users\apisi\source\repos\WPF_SymbolsOfStrings\obj\Debug\WPF_SymbolsOfStrings.csproj.CoreCompileInputs.cache
+C:\Users\apisi\source\repos\WPF_SymbolsOfStrings\obj\Debug\WPF_SymbolsOfStrings.exe
+C:\Users\apisi\source\repos\WPF_SymbolsOfStrings\obj\Debug\WPF_SymbolsOfStrings.pdb
+C:\Users\apisi\source\repos\WPF_SymbolsOfStrings\obj\Debug\MainWindow.g.cs
+C:\Users\apisi\source\repos\WPF_SymbolsOfStrings\obj\Debug\MainWindow.baml
